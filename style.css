@@ -1,0 +1,47 @@
+
+.bc{
+ 
+    background-image: url("../Documents/bc2.jpg");  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+   
+}
+.h{
+    color: aqua;
+   padding-top: 5px;
+   padding-left: 400px;
+   padding-right: 25px;
+}
+.p1{
+    font-family: "Brush Script MT" ;
+}
+.h1{
+    color: yellow;
+  
+    padding-left: 325px;
+    
+
+}
+.p2{
+    font-size: 160%;
+    
+}
+.h2{
+    color: white;
+    font-size: 150%;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5));
+    padding-left:130px ;
+    display:inline-block
+}
+.bc1{ 
+    img src="ïmages/soup: .jpg" alt="Trulli"width="500" height="333"
+   
+}
+
+.l1{
+    font-size: 100%;
+color:yellow;
+}
