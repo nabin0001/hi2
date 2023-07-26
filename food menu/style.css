@@ -31,19 +31,16 @@
 .h2{
     color: white;
     font-size: 150%;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.5));
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
     padding-left: 130px ;
     display:inline-block;
 }
 .bc1{ 
-    img src="ïmages/soup: .jpg" alt="Trulli"width="500" height="333"
+    img src ="ïmages/soup: .jpg" alt="Trulli"width="500" height="333"
    
 }
-.h3{
-    color: white;
-    padding-left: 400px ;
-}
+
 .l1{
     font-size: 100%;;
-color:yellow
+color :yellow;
 }
